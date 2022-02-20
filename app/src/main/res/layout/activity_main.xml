@@ -26,22 +26,12 @@
         android:layout_weight="1" />
 
     <Button
-        android:id="@+id/color_button"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginHorizontal="40dp"
-        android:layout_marginBottom="150dp"
-        android:backgroundTint="@color/teal_700"
-        android:text="@string/surprise"
-        app:cornerRadius="30dp" />
-
-    <Button
         android:id="@+id/simple_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="40dp"
         android:layout_marginBottom="150dp"
-        android:text="@string/change_name"
+        android:text="Button"
         app:cornerRadius="30dp" />
 
 </LinearLayout>
