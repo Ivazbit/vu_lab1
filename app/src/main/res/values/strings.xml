@@ -2,4 +2,7 @@
     <string name="app_name">My Application</string>
     <string name="hello_world">Hello World again!</string>
     <string name="hello_world_lt">Sveikas pasauli!</string>
+    <string name="surprise">Surprise</string>
+    <string name="change_name">Button</string>
+
 </resources>
